@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "http://github.com/DoctaGriffey/2016-01-29-AG"
-workshop_site   : "http://doctagriffey.github.io/2016-01-29-AG"
+workshop_site   : "http://DoctaGriffey.github.io/2016-01-29-AG"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
